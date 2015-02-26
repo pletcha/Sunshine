@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ab7362bc04e2960b58d7d3a4d921812b4bcf40c6.jar" />
+    </item>
+    <item
+        jar="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-cbc70985c34d7a5513b62ce5a335bb0404e0fa87.jar" />
+    </item>
+    <item
+        jar="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/classes-20cf52253fd63a3815a5e3b79a7cd7de7ed7ac2e.jar" />
+    </item>
+    <item
+        jar="/opt/local/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/pletcha/AndroidStudioProjects/Sunshine/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-688761399954e2930eaf5bc809bf61ba5ab10da9.jar" />
+    </item>
+
+</items>
